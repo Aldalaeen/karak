@@ -1,0 +1,8 @@
+#p_red { color: red;}
+#p_blue { color: blue;}
+#p_yellow { color: yellow;}
+#p_green {color: green;}
+#p_orange { color: orange;}
+#p_font {font-size: 300%;}
+#p_tiny {font-size: 50%;}
+p.styledFont {color: green;}

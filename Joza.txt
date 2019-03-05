@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tag</title>
+</head>
+<body>
+<h1> This is my first work </h1>
+<a href="https://www.youtube.com/" target="_blank">Youtube</a> </p>
+<a href="https://www.facebook.com/"><b> Facebook </b></a> </p>
+<a href="">placeholder</a></p>
+
+<h2> making sandwich steps: </h2>
+<ol> 
+<li> heating the bread </li>
+<li>put the butter </li>
+<li> put cheese </li>
+<li> put tomato and lettuce </li>
+
+</ol>
+<table>
+<tr><td>Birds</td><td>parrot</td></tr>
+<tr><td>Mamals</td><td>Camel</td></tr>
+</table>
+</body>
+</html>
